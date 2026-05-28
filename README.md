@@ -4,7 +4,7 @@
 
 Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-543053325/">
         <img 
             alt="LinkedIn" 
@@ -26,7 +26,7 @@ Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar
 
 ### 🤖 Hard Skills & Tecnologias
 
-<p align="left">
+<p align="center">
     <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="left" alt="Flask" title="Flask" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -59,13 +59,13 @@ Desenvolvimento de uma aplicação web em Python que consome dados reais e decod
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joaopedrorf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
       align="left" 
       alt="Top Langs" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrorf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
