@@ -45,7 +45,9 @@
 ### 🛠️ Projetos em Destaque
 
 #### 🛩️ Script Meteorológico VFR vs IFR (Projeto METAR)
-Desenvolvimento de uma aplicação web em Python que consome dados reais e decodificados da API aeronáutica *CheckWX*. O sistema isola as variáveis críticas de **Teto** (em pés) e **Visibilidade** (em metros) de qualquer aeródromo global para determinar de forma automatizada se as condições operacionais exigem voo por instrumentos (IFR) ou permitem voo visual (VFR).
+<p align="justify">
+    Desenvolvimento de uma aplicação web em Python que consome dados reais e decodificados da API aeronáutica *CheckWX*. O sistema isola as variáveis críticas de **Teto** (em pés) e **Visibilidade** (em metros) de qualquer aeródromo global para determinar de forma automatizada se as condições operacionais exigem voo por instrumentos (IFR) ou permitem voo visual (VFR).
+</p>
 
 * **Destaques de Engenharia:** Integração e consumo de APIs RESTful estruturadas, tratamento robusto de exceções e códigos HTTP de erro, gerenciamento seguro de credenciais em produção com `python-dotenv` e deploy contínuo (CI/CD).
 * **Stack:** Python, Flask, HTML5, CSS3, Requests.
