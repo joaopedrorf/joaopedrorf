@@ -58,8 +58,6 @@
 * [Para ver o código-fonte ↗️](https://github.com/joaopedrorf/app-metar)
 ---
 
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
