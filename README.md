@@ -54,8 +54,10 @@
 
 ### 🔗 🚀 Links do projeto:
 
-* [Para acessar o sistema ↗️](<a href="https://lnkd.in/dRTrHYjt" target="_blank" rel="noopener noreferrer">)
-* [Para ver o código-fonte ↗️](<a href="https://github.com/joaopedrorf/app-metar" target="_blank" rel="noopener noreferrer">)
+<ul>
+  <li><a href="https://lnkd.in/dRTrHYjt" target="_blank" rel="noopener noreferrer">Para acessar o sistema ↗️</a></li>
+  <li><a href="https://github.com/joaopedrorf/app-metar" target="_blank" rel="noopener noreferrer">Para ver o código-fonte ↗️</a></li>
+</ul>
 ---
 
 ### 📊 Estatísticas do GitHub
