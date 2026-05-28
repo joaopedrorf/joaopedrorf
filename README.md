@@ -55,18 +55,18 @@ Desenvolvimento de uma aplicação web em Python que consome dados reais e decod
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+### 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Stats" 
     height="190" 
-    src="https://github-readme-stats-six.vercel.app/api?username=SEU_USUARIO_REAL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-six.vercel.app/api?username=joaopedrorf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   &nbsp;&nbsp;
   <img 
     alt="Top Langs" 
     height="190" 
-    src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=SEU_USUARIO_REAL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+    src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=joaopedrorf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
