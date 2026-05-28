@@ -1,60 +1,71 @@
 # 👨‍💻 João Pedro Rodrigues
 
-**`Desenvolvedor de Software | Especialista em Soluções Tecnológicas`**
+**`Engenheiro de Software | Desenvolvedor FullStack`**
 
-Olá! Sou o João Pedro. Atuo no desenvolvimento de sistemas e soluções tecnológicas, combinando lógica avançada, engenharia de software e análise de dados para resolver problemas complexos do mundo real — como a tradução de dados meteorológicos críticos para tomada de decisão na aviação. 
-
-Busco constantemente evoluir minhas habilidades por meio de especializações acadêmicas e projetos práticos desafiadores, focando sempre em arquitetura de código limpa, performance e escalabilidade.
+Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-543053325/">
         <img 
             alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
+            title="Acesse meu perfil completo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/SEU_USUARIO_AQUI?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO_AQUI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
 
 ---
 
-### 🎓 Formação Acadêmica & Especializações
+### 🎓 Formação Acadêmica
 
-| Curso / Certificação | Instituição | Status / Ano | Foco Principal |
+| Curso | Instituição | Status | Foco Principal |
 | :--- | :--- | :--- | :--- |
-| **[Seu Curso Principal, ex: Análise e Desenvolvimento de Sistemas]** | [Nome da Faculdade/Universidade] | `[Ano de Conclusão ou Cursando]` | Desenvolvimento Web, Algoritmos e Arquitetura de Software. |
-| **Especialização em [Sua Área de Foco, ex: Engenharia de Software / Data Science]** | [Nome da Instituição] | `[Ano]` | Otimização de sistemas, padrões de projeto e integrações. |
-| **Bootcamp / Curso Avançado de Python Aplicado** | [Nome da Instituição] | `[Ano]` | Consumo de APIs RESTful, tratamento de dados estruturados. |
+| **Bacharelado em Engenharia de Software** | UNOPAR | `Concluído` | Engenharia de requisitos, arquitetura de sistemas, algoritmos, estruturas de dados e desenvolvimento de soluções escaláveis. |
 
 ---
 
 ### 🤖 Hard Skills & Tecnologias
 
-<img 
+<p align="left">
+    <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="left" alt="Flask" title="Flask" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+    <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="left" alt="HTML5" title="HTML5" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="left" alt="CSS3" title="CSS3" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+<br/>
+<br/>
+
+---
+
+### 🛠️ Projetos em Destaque
+
+#### 🛩️ Script Meteorológico VFR vs IFR (Projeto METAR)
+Desenvolvimento de uma aplicação web em Python que consome dados reais e decodificados da API aeronáutica *CheckWX*. O sistema isola as variáveis críticas de **Teto** (em pés) e **Visibilidade** (em metros) de qualquer aeródromo global para determinar de forma automatizada se as condições operacionais exigem voo por instrumentos (IFR) ou permitem voo visual (VFR).
+
+* **Destaques de Engenharia:** Integração e consumo de APIs RESTful estruturadas, tratamento robusto de exceções e códigos HTTP de erro, gerenciamento seguro de credenciais em produção com `python-dotenv` e deploy contínuo (CI/CD).
+* **Stack:** Python, Flask, HTML5, CSS3, Requests.
+* **Repositório:** [Acessar Código do Projeto ↗️](https://github.com/SEU_USUARIO_AQUI/Projeto_METAR)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
+    alt="GitHub Stats" 
+    height="190" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="Top Langs" 
+      height="190" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+</p>
