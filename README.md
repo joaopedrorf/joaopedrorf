@@ -2,9 +2,11 @@
 
 **`Engenheiro de Software | Desenvolvedor FullStack`**
 
-Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
+<p alingn='justify'>
+    Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
+</p>
 
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-543053325/">
         <img 
             alt="LinkedIn" 
@@ -26,7 +28,7 @@ Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar
 
 ### 🤖 Hard Skills & Tecnologias
 
-<p align="center">
+<p align="left">
     <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img align="left" alt="Flask" title="Flask" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
     <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
