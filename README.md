@@ -51,8 +51,11 @@
 
 * **Destaques de Engenharia:** Integração e consumo de APIs RESTful estruturadas, tratamento robusto de exceções e códigos HTTP de erro, gerenciamento seguro de credenciais em produção com `python-dotenv` e deploy contínuo (CI/CD).
 * **Stack:** Python, Flask, HTML5, CSS3, Requests.
-* **Repositório:** [Acessar Código do Projeto ↗️](https://github.com/joaopedrorf/app-metar)
 
+### 🔗 🚀 Links do projeto:
+
+* [Para acessar o sistema ↗️](https://lnkd.in/dRTrHYjt)
+* [Para ver o código-fonte ↗️](https://github.com/joaopedrorf/app-metar)
 ---
 
 ---
