@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-543053325/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-543053325/">
         <img 
             alt="LinkedIn" 
             title="Acesse meu perfil completo no LinkedIn" 
@@ -55,8 +55,8 @@
 ### 🔗 🚀 Links do projeto:
 
 <ul>
-  <li><a href="https://lnkd.in/dRTrHYjt" target="_blank" rel="noopener noreferrer">Para acessar o sistema ↗️</a></li>
-  <li><a href="https://github.com/joaopedrorf/app-metar" target="_blank" rel="noopener noreferrer">Para ver o código-fonte ↗️</a></li>
+  <li><a href="https://lnkd.in/dRTrHYjt">Para acessar o sistema ↗️</a></li>
+  <li><a href="https://github.com/joaopedrorf/app-metar">Para ver o código-fonte ↗️</a></li>
 </ul>
 
 ### 📊 Estatísticas do GitHub
