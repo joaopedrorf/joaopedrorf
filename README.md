@@ -3,7 +3,7 @@
 **`Engenheiro de Software | Desenvolvedor FullStack`**
 
 <p align='justify'>
-    Sou graduado em Engenharia de Software pela UNOPAR. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
+    Sou graduado em Engenharia de Software. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
 </p>
 
 <p align="left">
