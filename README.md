@@ -46,16 +46,17 @@
 
 #### 🛩️ Script Meteorológico VFR vs IFR (Projeto METAR)
 <p align="justify">
-    Desenvolvimento de uma aplicação web em Python que consome dados reais e decodificados da API aeronáutica *CheckWX*. O sistema isola as variáveis críticas de **Teto** (em pés) e **Visibilidade** (em metros) de qualquer aeródromo global para determinar de forma automatizada se as condições operacionais exigem voo por instrumentos (IFR) ou permitem voo visual (VFR).
+Desenvolvimento de uma aplicação web internacionalizada em Python que consome e decodifica relatórios meteorológicos aeronáuticos (METAR) em tempo real via API CheckWX. O sistema isola variáveis críticas de teto, visibilidade, vento e pressão, contando com um dicionário avançado de mapeamento e uma interface dinâmica bilingue (PT/EN).
 </p>
 
-* **Destaques de Engenharia:** Integração e consumo de APIs RESTful estruturadas, tratamento robusto de exceções e códigos HTTP de erro, gerenciamento seguro de credenciais em produção com `python-dotenv` e deploy contínuo (CI/CD).
-* **Stack:** Python, Flask, HTML5, CSS3, Requests.
+Destaques de Engenharia: Internacionalização (i18n) nativa no backend, tratamento abrangente de fenômenos meteorológicos complexos, arquitetura limpa com tratamento robusto de exceções, gerenciamento seguro de credenciais em produção e deploy contínuo (CI/CD).
+
+Stack: Python, Flask, Requests, HTML5, CSS3 (CSS Grid), Jinja2, Gunicorn, Render.
 
 ### 🔗 🚀 Links do projeto:
 
 <ul>
-  <li><a href="https://lnkd.in/dRTrHYjt">Para acessar o sistema ↗️</a></li>
+  <li><a href="https://app-metar.onrender.com/">Para acessar o sistema ↗️</a></li>
   <li><a href="https://github.com/joaopedrorf/app-metar">Para ver o código-fonte ↗️</a></li>
 </ul>
 
