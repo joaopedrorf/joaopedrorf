@@ -49,7 +49,7 @@
 Desenvolvimento de uma aplicação web internacionalizada em Python que consome e decodifica relatórios meteorológicos aeronáuticos (METAR) em tempo real via API CheckWX. O sistema isola variáveis críticas de teto, visibilidade, vento e pressão, contando com um dicionário avançado de mapeamento e uma interface dinâmica bilingue (PT/EN).
 </p>
 
-Destaques de Engenharia: Internacionalização (i18n) nativa no backend, tratamento abrangente de fenômenos meteorológicos complexos, arquitetura limpa com tratamento robusto de exceções, gerenciamento seguro de credenciais em produção e deploy contínuo (CI/CD).
+Destaques de Engenharia: Internacionalização nativa no backend, tratamento abrangente de fenômenos meteorológicos complexos, arquitetura limpa com tratamento robusto de exceções, gerenciamento seguro de credenciais em produção e deploy contínuo (CI/CD).
 
 Stack: Python, Flask, Requests, HTML5, CSS3 (CSS Grid), Jinja2, Gunicorn, Render.
 
