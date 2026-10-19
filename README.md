@@ -23,6 +23,9 @@
 | Curso | Instituição | Status | Foco Principal |
 | :--- | :--- | :--- | :--- |
 | **Bacharelado em Engenharia de Software** | UNOPAR | `Concluído` | Engenharia de requisitos, arquitetura de sistemas, algoritmos, estruturas de dados e desenvolvimento de soluções escaláveis. |
+| Curso | Instituição | Status | Foco Principal |
+| :--- | :--- | :--- | :--- |
+| **Bacharelado em Engenharia de Software** | UNOPAR | `Concluído` | Engenharia de requisitos, arquitetura de sistemas, algoritmos, estruturas de dados e desenvolvimento de soluções escaláveis. |
 
 ---
 
