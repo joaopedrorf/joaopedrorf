@@ -3,7 +3,13 @@
 **`Controlador de Tráfego Aéreo e Engenheiro de Software | Python para a aviação`**
 
 <p align='justify'>
-    Sou graduado em Engenharia de Software. Busco constantemente aplicar meus conhecimentos teóricos e práticos no desenvolvimento de soluções tecnológicas desafiadoras. Meu foco está voltado para a arquitetura de código limpa, automação de processos e otimização de performance, criando softwares personalizados que resolvem problemas reais do dia a dia.
+    Sou controlador de tráfego aéreo e engenheiro de software.
+Essa combinação é rara: conheço a operação aérea por dentro e sei transformar processos em software.
+
+Desenvolvo ferramentas em Python e JavaScript que reduzem trabalho manual e erros:
+• Painéis meteorológicos e interpretação de METAR e TAF;
+• Automação de planilhas, relatórios e controles operacionais; e
+• Sistemas web sob medida, como agendamento de aeronaves e controle de horas de voo.
 </p>
 
 <p align="left">
