@@ -44,7 +44,7 @@
 
 ### 🛠️ Projetos em Destaque
 
-#### 🛩️ Script Meteorológico VFR vs IFR (Projeto METAR)
+#### 🛩️ Painel de Decodificação de METAR (Projeto METAR)
 <p align="justify">
 Desenvolvimento de uma aplicação web internacionalizada em Python que consome e decodifica relatórios meteorológicos aeronáuticos (METAR) em tempo real via API CheckWX. O sistema isola variáveis críticas de teto, visibilidade, vento e pressão, contando com um dicionário avançado de mapeamento e uma interface dinâmica bilingue (PT/EN).
 </p>
