@@ -6,10 +6,9 @@
     Sou controlador de tráfego aéreo e engenheiro de software.
 Essa combinação é rara: conheço a operação aérea por dentro e sei transformar processos em software.
 
-Desenvolvo ferramentas em Python e JavaScript que reduzem trabalho manual e erros:
-• Painéis meteorológicos e interpretação de METAR e TAF;
-• Automação de planilhas, relatórios e controles operacionais; e
-• Sistemas web sob medida, como agendamento de aeronaves e controle de horas de voo.
+Desenvolvo ferramentas em Python e JavaScript que reduzem trabalho manual e erros.
+
+Trabalho com aeroclubes, escolas de aviação, operadores de táxi aéreo e pequenas empresas que querem ganhar tempo com tecnologia.
 </p>
 
 <p align="left">
