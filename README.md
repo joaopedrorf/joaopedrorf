@@ -11,12 +11,26 @@ Desenvolvo ferramentas em Python e JavaScript que reduzem trabalho manual e erro
 Trabalho com aeroclubes, escolas de aviação, operadores de táxi aéreo e pequenas empresas que querem ganhar tempo com tecnologia.
 </p>
 
+**Como posso ajudar:**
+- **Briefing no seu site:** METAR, TAF e NOTAM do seu aeródromo numa tela só, em português e inglês.
+- **Da planilha para o sistema:** agenda de aeronaves, controle de horas de voo e cadastro de alunos num sistema web simples.
+- **Automação de rotina:** relatórios automáticos e avisos de vencimento (CMA, habilitações, manutenção).
+
+*🇺🇸 Air traffic controller and software engineer. I build Python tools for flying clubs, flight schools and small aviation businesses. Let's talk on LinkedIn.*
+
 <p align="left">
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-543053325/">
         <img 
             alt="LinkedIn" 
             title="Acesse meu perfil completo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://app-metar.onrender.com/">
+        <img 
+            alt="Ver projeto no ar" 
+            title="Abrir o Briefing de Aeródromo" 
+            src="https://img.shields.io/badge/Ver_projeto_no_ar-2E7D32?style=for-the-badge&logo=render&logoColor=white"
         />
     </a>
 </p>
@@ -50,17 +64,17 @@ Trabalho com aeroclubes, escolas de aviação, operadores de táxi aéreo e pequ
 
 ### 🛠️ Projetos em Destaque
 
-#### 🛩️ Painel de Decodificação de METAR (Projeto METAR)
+#### 🛩️ Briefing de Aeródromo: METAR, TAF e NOTAM numa tela só
 <p align="justify">
-Desenvolvimento de uma aplicação web internacionalizada em Python que consome e decodifica relatórios meteorológicos aeronáuticos (METAR) em tempo real via API CheckWX. O sistema isola variáveis críticas de teto, visibilidade, vento e pressão, contando com um dicionário avançado de mapeamento e uma interface dinâmica bilingue (PT/EN).
+Aplicação web em Python que reúne o METAR, o TAF e os NOTAM de um aeródromo numa única tela, decodificados em linguagem clara, em português ou inglês. Basta digitar o código ICAO. Os dados vêm em tempo real da CheckWX e da AISWEB (DECEA). O app ajuda na consulta e não substitui as fontes oficiais.
 </p>
 
 <p align="justify">
-Destaques de Engenharia: Internacionalização nativa no backend, tratamento abrangente de fenômenos meteorológicos complexos, arquitetura limpa com tratamento robusto de exceções, gerenciamento seguro de credenciais em produção e deploy contínuo (CI/CD).
+Destaques: integração com duas APIs externas, interface bilíngue (PT/EN), tratamento de erros quando uma fonte está fora do ar, credenciais protegidas em produção, testes automatizados (pytest) e publicação automática a cada atualização do código.
 </p>
 
 <p align="justify">
-Stack: Python, Flask, Requests, HTML5, CSS3 (CSS Grid), Jinja2, Gunicorn, Render.
+Stack: Python, Flask, Requests, Jinja2, HTML5, CSS3, pytest, Gunicorn, Render.
 </p>
 
 ### 🔗 🚀 Links do projeto:
@@ -69,19 +83,3 @@ Stack: Python, Flask, Requests, HTML5, CSS3 (CSS Grid), Jinja2, Gunicorn, Render
   <li><a href="https://app-metar.onrender.com/">Para acessar o sistema ↗️</a></li>
   <li><a href="https://github.com/joaopedrorf/app-metar">Para ver o código-fonte ↗️</a></li>
 </ul>
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="190" 
-    src="https://github-readme-stats-six.vercel.app/api?username=joaopedrorf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  &nbsp;&nbsp;
-  <img 
-    alt="Top Langs" 
-    height="190" 
-    src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=joaopedrorf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-</p>
