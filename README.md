@@ -23,9 +23,7 @@
 | Curso | Instituição | Status | Foco Principal |
 | :--- | :--- | :--- | :--- |
 | **Bacharelado em Engenharia de Software** | UNOPAR | `Concluído` | Engenharia de requisitos, arquitetura de sistemas, algoritmos, estruturas de dados e desenvolvimento de soluções escaláveis. |
-| Curso | Instituição | Status | Foco Principal |
-| :--- | :--- | :--- | :--- |
-| **Bacharelado em Engenharia de Software** | UNOPAR | `Concluído` | Engenharia de requisitos, arquitetura de sistemas, algoritmos, estruturas de dados e desenvolvimento de soluções escaláveis. |
+| **Controlador de Tráfego Aéreo** | CIAAN | `Concluído` | Domínio de Regulamentação Aeronáutica, proficiência em inglês e fraseologia padrão, operação de sistemas tecnológicos, cálculo mental e noções de meteorologia. |
 
 ---
 
