@@ -1,6 +1,6 @@
 # 👨‍💻 João Pedro Rodrigues
 
-**`Controlador de Tráfego Aéreo | Engenheiro de Software`**
+**`Controlador de Tráfego Aéreo | Engenheiro de Software | Sistemas para Aviação e Aluguel por Temporada`**
 
 <p align='justify'>
     Sou controlador de tráfego aéreo e engenheiro de software.
